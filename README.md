@@ -1,5 +1,7 @@
 # Bike Sharing
 
+[link to dashboard]https://public.tableau.com/profile/brandon.deluna#!/vizhome/Citibike_16030104590800/Story1?publish=yes
+
 ## Overview
 In this module we were to build a business proposal for a potential investor for our bike sharing business in Des Moines, Iowa. The data we used was sourced from bike sharing activity in New York City from 2019. Utilizing Tableu's visualization resources we built a story for the investor to prove that we could build a successful bike sharing business in Des Moines, Iowa.
 
